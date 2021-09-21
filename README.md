@@ -1,4 +1,4 @@
-# java-a1Import.java.util.*
+#Import.java.util.*
 
 public class DisplayEvenNumbersExample1  
 
